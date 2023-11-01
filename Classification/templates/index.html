@@ -1,0 +1,117 @@
+<html>
+{% extends "base.html" %} {% block content %}
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+	@media screen and (min-width: 280px) {
+  body {
+    overflow-x: hidden !important;
+	
+}
+.container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+ 
+}
+@media screen and (min-width: 480px) {
+  body {
+    overflow-x: hidden !important;
+	
+}
+.container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+  
+}
+@media screen and (min-width: 600px) {
+  body {
+    overflow-x: hidden !important;
+	
+}
+.container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+}
+ 
+</style>
+</head>
+
+<div class="transbox">
+    
+    <style>
+        /* Center the heading */
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>DIABETIC RETINOPATHY PREDICTION</h2>
+    <!-- Add your content here -->
+</body>
+<br></br>
+    <form id="upload-file" method="post" enctype="multipart/form-data">
+        <label for="imageUpload" class="upload-label">
+            Choose a Scanned Image 
+        </label>
+        <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg " onchange="validateFileType()" >
+		<script type="text/javascript">
+		function validateFileType()
+		{
+		var imageUpload= document.getElementById("imageUpload").value;
+		var idxDot=imageUpload.lastIndexOf(".") + 1;
+		var extFile=imageUpload.substr(idxDot,imageUpload.length).toLowerCase();
+		if(extFile=="jpg" || extFile=="jpeg" || extFile=="png" )
+		{}
+		else
+		{
+			if(!alert("Only jpg/jpeg and png files are allowed!")){window.location.reload();}
+		}
+		}
+		</script>
+    </form>
+
+    <div class="image-section" style="display:none;align-self: center;">
+        <div class="img-preview">
+            <div id="imagePreview">
+            </div>
+        </div>
+        <div>
+            <button type="button" class="btn btn-primary btn-lg " id="btn-predict">Predict!</button>
+        </div>
+		
+    </div>
+
+    <div class="loader" style="display:none;"></div>
+
+<h3 id="result">
+        <span> </span>
+    </h3>
+    <style>
+        /* Style for the copyright section */
+        .copyright {
+            position: fixed; /* You can also use 'position: sticky;' for a sticky footer */
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: #f5f5f5; /* Set the background color */
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Your page content goes here -->
+
+    <div class="copyright">
+        <h4>&copy; Copyright! 2023 IT developer</h4>
+    </div>
+</body>
+</html>
+</div>
+{% endblock %}
+
+</html>
