@@ -1,1 +1,1 @@
-Create a results "folder" here
+Create a "results" folder here
