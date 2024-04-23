@@ -1,3 +1,3 @@
 # Files
 
-Download the MODEL files from here: [checkpoint.pth](https://drive.google.com/file/d/1Wl7-E6Tk3YpeJ7GIYScGvUeW9ou474yy/view?usp=sharing)
+Download the MODEL files from here: [checkpoint.pth](https://drive.google.com/drive/folders/1O7ykEE4oQzulLcCG8TmN9IqpUDLgJBY8?usp=drive_link)
