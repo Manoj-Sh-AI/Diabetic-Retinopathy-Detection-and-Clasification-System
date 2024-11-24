@@ -7,21 +7,21 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 ![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/assets/85511726/fa04d7de-df4c-4945-8776-9a447f1f13ff)
 
 # OUTPUT RESULTS
-## Blood Vessel Segmentation
+## Blood Vessel Segmentation (Original image | Masked Image | Predicted Image)
 ![22_test_0](https://github.com/user-attachments/assets/fafb6456-3baf-4658-95d9-aba351a43c0e)
 
-## Hemorrhage Segmentation
+## Hemorrhage Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_67](https://github.com/user-attachments/assets/fb7a246b-61c2-4c9f-b34e-bc40bdfda130)
 
-## Hard Exudate Segmentation
+## Hard Exudate Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_55](https://github.com/user-attachments/assets/5c22726f-408b-4550-a237-43a7ca8520c5)
 
-## Microaneurysms Segmentation
+## Microaneurysms Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_59](https://github.com/user-attachments/assets/7038a87b-4a8d-4cf0-a15a-fe45ebe13f7d)
 
-## Optic Disc Segmentation
+## Optic Disc Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_61](https://github.com/user-attachments/assets/9d8e9182-5d12-4d28-bde8-ec08286c2463)
 
-## Soft Exudate Segmentation
+## Soft Exudate Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_68](https://github.com/user-attachments/assets/cf0eb1da-dcd0-49f8-9e80-be27922af536)
 
