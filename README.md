@@ -6,7 +6,7 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 ### Proposed Interface Design
 ![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/assets/85511726/fa04d7de-df4c-4945-8776-9a447f1f13ff)
 
-### RESULTS
+# OUTPUT RESULTS
 ## Blood Vessel Segmentation
 ![22_test_0](https://github.com/user-attachments/assets/fafb6456-3baf-4658-95d9-aba351a43c0e)
 
