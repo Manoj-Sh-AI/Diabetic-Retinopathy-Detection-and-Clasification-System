@@ -9,7 +9,7 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 # OUTPUT RESULTS
 ## Blood Vessel Segmentation (Original image | Masked Image | Predicted Image)
 ![22_test_0](https://github.com/user-attachments/assets/fafb6456-3baf-4658-95d9-aba351a43c0e)
-Original image                     Masked Image                        Predicted Image
+Original image---------------------------Masked Image-----------------------------Predicted Image
 
 ## Hemorrhage Segmentation (Original image | Masked Image | Predicted Image)
 ![IDRiD_67](https://github.com/user-attachments/assets/fb7a246b-61c2-4c9f-b34e-bc40bdfda130)
