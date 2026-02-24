@@ -5,8 +5,8 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 
 #### Link to AccScience publication (Catagory: Arteficial Intelligence in Health): https://accscience.com/journal/AIH/articles/online_first/1758
 
-### Proposed Interface Design
-![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/assets/85511726/fa04d7de-df4c-4945-8776-9a447f1f13ff)
+### Interface Design
+![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/blob/48a01c660feb2e91e3737c47670c55c66e7edadc/images/Screenshot%202026-02-24%20230953.png)
 
 # OUTPUT RESULTS
 ## Blood Vessel Segmentation (Original image | Masked Image | Predicted Image)
