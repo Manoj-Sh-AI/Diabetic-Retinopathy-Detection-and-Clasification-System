@@ -12,7 +12,9 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 
 ![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/blob/69847ff208d8263a44f4ea2358786b5c01e31c6b/images/Screenshot%202026-02-24%20231227.png)
 
-### Report Generation using LLM and Treatment Recommendation layout
+### Report Generation using LLM and Treatment Recommendation after downloading the REPORT of your eye ;)
+![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/blob/3bf5009d1f0eeccf8b0c9f8c8d08491ef1428fe7/images/download%20(1).jpeg)
+
 
 # OUTPUT RESULTS
 ## Blood Vessel Segmentation (Original image | Masked Image | Predicted Image)
