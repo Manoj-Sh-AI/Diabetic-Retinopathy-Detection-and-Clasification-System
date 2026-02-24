@@ -8,6 +8,10 @@ This research paper addresses the critical challenge of diabetic retinopathy (DR
 ### Interface Design
 ![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/blob/48a01c660feb2e91e3737c47670c55c66e7edadc/images/Screenshot%202026-02-24%20230953.png)
 
+![Normal View](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System/blob/73371a08b92acc7d8949fe58222cbbb752de5702/images/Screenshot%202026-02-24%20231031.png)
+
+### Report and Treatment Recommendation layout
+
 # OUTPUT RESULTS
 ## Blood Vessel Segmentation (Original image | Masked Image | Predicted Image)
 ![22_test_0](https://github.com/user-attachments/assets/fafb6456-3baf-4658-95d9-aba351a43c0e)
